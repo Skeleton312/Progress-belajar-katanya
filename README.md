@@ -1,5 +1,5 @@
-# Progress-belajar-katanya
-dicoding cem biasa
+# Progress-belajar-git
+dicoding git biasa
 ==
 Pengalaman Belajar di Dicoding
 
